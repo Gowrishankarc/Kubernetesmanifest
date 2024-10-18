@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: i18next-app-container
-        image: 8197495215/i18next-app:9
+        image: 8197495215/i18next-app:10
         imagePullPolicy: Always
         ports:
         - containerPort: 5173
